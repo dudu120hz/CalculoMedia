@@ -1,0 +1,15 @@
+C:\Users\eduar\Desktop\Programação (Python, C#, SQL, Git & GitHub)\GitHub\C#\CalculoMedia\CalculoMedia\bin\Debug\net6.0\CalculoMedia.exe
+C:\Users\eduar\Desktop\Programação (Python, C#, SQL, Git & GitHub)\GitHub\C#\CalculoMedia\CalculoMedia\bin\Debug\net6.0\CalculoMedia.deps.json
+C:\Users\eduar\Desktop\Programação (Python, C#, SQL, Git & GitHub)\GitHub\C#\CalculoMedia\CalculoMedia\bin\Debug\net6.0\CalculoMedia.runtimeconfig.json
+C:\Users\eduar\Desktop\Programação (Python, C#, SQL, Git & GitHub)\GitHub\C#\CalculoMedia\CalculoMedia\bin\Debug\net6.0\CalculoMedia.dll
+C:\Users\eduar\Desktop\Programação (Python, C#, SQL, Git & GitHub)\GitHub\C#\CalculoMedia\CalculoMedia\bin\Debug\net6.0\ref\CalculoMedia.dll
+C:\Users\eduar\Desktop\Programação (Python, C#, SQL, Git & GitHub)\GitHub\C#\CalculoMedia\CalculoMedia\bin\Debug\net6.0\CalculoMedia.pdb
+C:\Users\eduar\Desktop\Programação (Python, C#, SQL, Git & GitHub)\GitHub\C#\CalculoMedia\CalculoMedia\obj\Debug\net6.0\CalculoMedia.csproj.AssemblyReference.cache
+C:\Users\eduar\Desktop\Programação (Python, C#, SQL, Git & GitHub)\GitHub\C#\CalculoMedia\CalculoMedia\obj\Debug\net6.0\CalculoMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\Desktop\Programação (Python, C#, SQL, Git & GitHub)\GitHub\C#\CalculoMedia\CalculoMedia\obj\Debug\net6.0\CalculoMedia.AssemblyInfoInputs.cache
+C:\Users\eduar\Desktop\Programação (Python, C#, SQL, Git & GitHub)\GitHub\C#\CalculoMedia\CalculoMedia\obj\Debug\net6.0\CalculoMedia.AssemblyInfo.cs
+C:\Users\eduar\Desktop\Programação (Python, C#, SQL, Git & GitHub)\GitHub\C#\CalculoMedia\CalculoMedia\obj\Debug\net6.0\CalculoMedia.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Desktop\Programação (Python, C#, SQL, Git & GitHub)\GitHub\C#\CalculoMedia\CalculoMedia\obj\Debug\net6.0\CalculoMedia.dll
+C:\Users\eduar\Desktop\Programação (Python, C#, SQL, Git & GitHub)\GitHub\C#\CalculoMedia\CalculoMedia\obj\Debug\net6.0\ref\CalculoMedia.dll
+C:\Users\eduar\Desktop\Programação (Python, C#, SQL, Git & GitHub)\GitHub\C#\CalculoMedia\CalculoMedia\obj\Debug\net6.0\CalculoMedia.pdb
+C:\Users\eduar\Desktop\Programação (Python, C#, SQL, Git & GitHub)\GitHub\C#\CalculoMedia\CalculoMedia\obj\Debug\net6.0\CalculoMedia.genruntimeconfig.cache
