@@ -1,5 +1,5 @@
-# Projeto Cinema Simples em C#
-Neste projeto eu simulo a compra e venda de ingressoas de cinema em C#.
+# Projeto Calculo de Média em C#
+Neste projeto eu simulo um cálculo de média em C#.
 
 ## Classe Calculo
 Nesta classe, eu uso um método construtor para fazer todos os cálculos do projeto, usando três parâmetros.
